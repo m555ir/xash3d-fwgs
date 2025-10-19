@@ -1,10 +1,10 @@
 /*
 com_strings.h - all paths to external resources that hardcoded into engine
-Copyright (C) 2018 Uncle Mike
-
+Copyright (C) 2025 MOHAMMEDNOOR
+noor_gol@yahoo.com
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
+the Free Software Foundation, either version 5 of the License, or
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
@@ -74,9 +74,9 @@ GNU General Public License for more details.
 
 #define DEFAULT_UPDATE_PAGE "https://github.com/FWGS/xash3d-fwgs/releases/latest"
 
-#define XASH_ENGINE_NAME "Xash3D FWGS"
-#define XASH_DEDICATED_SERVER_NAME "XashDS"
-#define XASH_VERSION        "0.21" // engine current version
-#define XASH_COMPAT_VERSION "0.99" // version we are based on
+#define XASH_ENGINE_NAME "M555IR" 
+#define XASH_DEDICATED_SERVER_NAME "MOHAMMEDNOOR" 
+#define XASH_VERSION "1.01" // engine current version 
+#define XASH_COMPAT_VERSION "1.97" // version we are based on
 
 #endif//COM_STRINGS_H
